@@ -38,6 +38,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-"""Ignore this, I need another commit to push so I 
-can get around ssh stuff"""
